@@ -12,3 +12,5 @@
 ## braC
 
 ## mainEdit in braC
+
+## add gitignore
